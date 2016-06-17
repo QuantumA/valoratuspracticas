@@ -15,6 +15,7 @@ class Estudiante
    var $fecha_reg;
 	var $pts;
 	var $roll="estudiante";
+	var $src="res/drawables/defaultProfile.png";
 
    
    function __construct(){
@@ -54,7 +55,7 @@ class Estudiante
 	   $this->pass = $a;
 	   $this->email = $l;
 
-      die($n);
+  
    }
 
 	function Estudiante_update($n,$a,$e,$pa,$c,$m,$r,$log){

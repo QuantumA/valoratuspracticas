@@ -172,6 +172,8 @@ class EstudianteMod
 
 	public function RegistrarVeloz(Estudiante $data)
 	{
+
+
 		try {
 			$sql = "INSERT INTO estudiante (login,pass,email) VALUES (?, ?, ?)";
 
