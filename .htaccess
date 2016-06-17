@@ -1,0 +1,30 @@
+RewriteEngine On
+
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+
+
+RewriteRule ^inicio demo/controller/index.php
+RewriteRule ^(ranking)$ demo/controller/index.php?peticion=$1 [L]
+RewriteRule ^location_([A-Z]+)$ demo/controller/index.php?peticion=location&recurso=$1 [L]
+RewriteRule ^resume_([0-9]+)$ demo/controller/index.php?peticion=resume&recurso=$1 [L]
+RewriteRule ^login demo/controller/login.php
+RewriteRule ^registro demo/controller/set_up.php
+RewriteRule ^logueo demo/controller/procesaLog.php
+RewriteRule ^valoraciones demo/controller/index.php?peticion=valoraciones
+RewriteRule ^exit demo/controller/index.php?peticion=logout
+RewriteRule ^users_ranking demo/controller/index.php?peticion=users_rank
+RewriteRule ^actualizar demo/controller/actualizar.php
+RewriteRule ^busquedas demo/controller/busquedas_dinamicas.php
+RewriteRule ^nueva_empresa demo/controller/index.php?peticion=nueva_empresa
+RewriteRule ^enviar_valoracion demo/controller/enviarValoracion.php
+RewriteRule ^registrarse demo/controller/procesaReg.php
+RewriteRule ^alta_candidatura demo/controller/alta_candidatura.php
+RewriteRule ^mi_empresa_([0-9]+)$ demo/controller/index.php?peticion=empresa&recurso=$1 [L]
+RewriteRule ^ranking-0 demo/controller/index.php?peticion=ranking&pagina=0
+RewriteRule ^ranking-([1-9]+)$ demo/controller/index.php?peticion=ranking&pagina=$1 [L]
+RewriteRule ^practica-([0-9]+)$ demo/controller/index.php?peticion=practica&recurso=$1 [L]
+RewriteRule ^alta_practicas demo/controller/alta_practicas.php
+RewriteRule ^carga_foto demo/controller/carga_foto.php
+
+
