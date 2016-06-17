@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.27, created on 2016-06-17 11:35:07
+<?php /* Smarty version 3.1.27, created on 2016-06-17 11:44:56
          compiled from "/var/www/practicas/alvaro/vtp/demo/templates/index.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:21263472175763c44b01a9e4_87110190%%*/
+/*%%SmartyHeaderCode:537272105763c6981f44d2_56023162%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -9,11 +9,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '02fbbdc5186197ccc88f669f688177a0d422db72' => 
     array (
       0 => '/var/www/practicas/alvaro/vtp/demo/templates/index.tpl',
-      1 => 1466156099,
+      1 => 1466156695,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '21263472175763c44b01a9e4_87110190',
+  'nocache_hash' => '537272105763c6981f44d2_56023162',
   'variables' => 
   array (
     'empresas' => 0,
@@ -22,13 +22,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.27',
-  'unifunc' => 'content_5763c44b09e830_53740716',
+  'unifunc' => 'content_5763c6982653e7_99786500',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_5763c44b09e830_53740716')) {
-function content_5763c44b09e830_53740716 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_5763c6982653e7_99786500')) {
+function content_5763c6982653e7_99786500 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '21263472175763c44b01a9e4_87110190';
+$_smarty_tpl->properties['nocache_hash'] = '537272105763c6981f44d2_56023162';
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -255,6 +255,9 @@ $_smarty_tpl->tpl_vars['r'] = $foreach_r_Sav;
 
 
 </body>
+<?php echo $_smarty_tpl->getSubTemplate ("../templates/footer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('title'=>'foo'), 0);
+?>
+
 </html>
 
 <?php }

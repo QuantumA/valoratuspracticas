@@ -44,7 +44,7 @@
 
 </body>
 <footer>
-{include file="../templates/footer.tpl"}
+
 </footer>
 </html>
 

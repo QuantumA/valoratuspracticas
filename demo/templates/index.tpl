@@ -192,5 +192,6 @@
 
 
 </body>
+{include file="../templates/footer.tpl" title=foo}
 </html>
 

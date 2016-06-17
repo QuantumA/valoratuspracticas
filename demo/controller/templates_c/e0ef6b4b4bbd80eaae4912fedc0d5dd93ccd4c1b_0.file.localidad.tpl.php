@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.27, created on 2016-06-16 12:36:07
+<?php /* Smarty version 3.1.27, created on 2016-06-17 11:39:57
          compiled from "/var/www/practicas/alvaro/vtp/demo/templates/localidad.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:1650550250576281171375b3_29396960%%*/
+/*%%SmartyHeaderCode:14277323025763c56dd42bb0_56559564%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -9,11 +9,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e0ef6b4b4bbd80eaae4912fedc0d5dd93ccd4c1b' => 
     array (
       0 => '/var/www/practicas/alvaro/vtp/demo/templates/localidad.tpl',
-      1 => 1466059656,
+      1 => 1466156360,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1650550250576281171375b3_29396960',
+  'nocache_hash' => '14277323025763c56dd42bb0_56559564',
   'variables' => 
   array (
     'empresaPorLocalidad' => 0,
@@ -21,13 +21,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => '3.1.27',
-  'unifunc' => 'content_5762811718c938_67760395',
+  'unifunc' => 'content_5763c56ddaf278_18686052',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_5762811718c938_67760395')) {
-function content_5762811718c938_67760395 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_5763c56ddaf278_18686052')) {
+function content_5763c56ddaf278_18686052 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '1650550250576281171375b3_29396960';
+$_smarty_tpl->properties['nocache_hash'] = '14277323025763c56dd42bb0_56559564';
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -49,7 +49,7 @@ $_smarty_tpl->properties['nocache_hash'] = '1650550250576281171375b3_29396960';
 <body>
 
 
-<div class="container">
+<div class="container  container_fater">
     <div class="jumbotron">
         <table class="table table-responsive">
             <thead class="thead-inverse">

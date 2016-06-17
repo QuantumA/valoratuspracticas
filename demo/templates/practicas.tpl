@@ -119,5 +119,5 @@
 </div>
 </div>
 </body>
-{include file="../templates/footer.tpl"}
+
 </html>

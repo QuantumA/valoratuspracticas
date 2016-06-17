@@ -1,18 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!----<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  </head>!--->
-<body>
-
-</body>
-<footer>
-<h1>FUNCIONA FOOTER</h1>
+<footer id="footer" role="contentinfo">
+    <div class="container col-lg-12 foot">
+        <div class="row row-bottom-padded-sm">
+            <div class="col-md-12">
+                <p class="copyright text-center color">&copy; 2016 valoratuspracticas.com <a href="inicio"> inicio  </a> All Rights Reserved. <br> Plataforma creada por MadWare Labs &copy; <a href="http://madwarelabs.com/" target="_blank">madwarelabs.com</a> | Images by <a href="http://pexels.com/" target="_blank">Pexels</a></p>
+            </div>
+        </div>
+    </div>
 </footer>
-
-    </html>

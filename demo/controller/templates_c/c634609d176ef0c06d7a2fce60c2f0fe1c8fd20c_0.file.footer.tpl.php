@@ -1,7 +1,7 @@
-<?php /* Smarty version 3.1.27, created on 2016-05-05 11:01:08
+<?php /* Smarty version 3.1.27, created on 2016-06-17 12:46:37
          compiled from "/var/www/practicas/alvaro/vtp/demo/templates/footer.tpl" */ ?>
 <?php
-/*%%SmartyHeaderCode:1444927381572b0bd485c330_13530602%%*/
+/*%%SmartyHeaderCode:19840946395763d50df3d8d9_33387227%%*/
 if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
@@ -9,42 +9,29 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'c634609d176ef0c06d7a2fce60c2f0fe1c8fd20c' => 
     array (
       0 => '/var/www/practicas/alvaro/vtp/demo/templates/footer.tpl',
-      1 => 1462434341,
+      1 => 1466160397,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1444927381572b0bd485c330_13530602',
+  'nocache_hash' => '19840946395763d50df3d8d9_33387227',
   'has_nocache_code' => false,
   'version' => '3.1.27',
-  'unifunc' => 'content_572b0bd485e644_92033666',
+  'unifunc' => 'content_5763d50e04ea10_46948512',
 ),false);
 /*/%%SmartyHeaderCode%%*/
-if ($_valid && !is_callable('content_572b0bd485e644_92033666')) {
-function content_572b0bd485e644_92033666 ($_smarty_tpl) {
+if ($_valid && !is_callable('content_5763d50e04ea10_46948512')) {
+function content_5763d50e04ea10_46948512 ($_smarty_tpl) {
 
-$_smarty_tpl->properties['nocache_hash'] = '1444927381572b0bd485c330_13530602';
+$_smarty_tpl->properties['nocache_hash'] = '19840946395763d50df3d8d9_33387227';
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!----<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <?php echo '<script'; ?>
- src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"><?php echo '</script'; ?>
->
-  <?php echo '<script'; ?>
- src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"><?php echo '</script'; ?>
->
-  </head>!--->
-<body>
-
-</body>
-<footer>
-<h1>FUNCIONA FOOTER</h1>
-</footer>
-
-    </html><?php }
+<footer id="footer" role="contentinfo">
+    <div class="container col-lg-12 foot">
+        <div class="row row-bottom-padded-sm">
+            <div class="col-md-12">
+                <p class="copyright text-center color">&copy; 2016 valoratuspracticas.com <a href="inicio"> inicio  </a> All Rights Reserved. <br> Plataforma creada por MadWare Labs &copy; <a href="http://madwarelabs.com/" target="_blank">madwarelabs.com</a> | Images by <a href="http://pexels.com/" target="_blank">Pexels</a></p>
+            </div>
+        </div>
+    </div>
+</footer><?php }
 }
 ?>
