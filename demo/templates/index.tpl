@@ -61,58 +61,58 @@
     <!-- CSSMap - Spain -->
     <div id="map-spain">
         <ul class="spain">
-            <li class="es1"><a href="index.php?peticion=location&recurso=ALAVA">Álava</a></li>
-            <li class="es2"><a href="index.php?peticion=location&recurso=albacete">Albacete</a></li>
-            <li class="es3"><a href="index.php?peticion=location&recurso=alicante">Alicante</a></li>
-            <li class="es4"><a href="index.php?peticion=location&recurso=almeria">Almería</a></li>
-            <li class="es5"><a href="index.php?peticion=location&recurso=asturias">Asturias</a></li>
-            <li class="es6"><a href="index.php?peticion=location&recurso=avila">Ávila</a></li>
-            <li class="es7"><a href="index.php?peticion=location&recurso=badajoz">Badajoz</a></li>
-            <li class="es8"><a href="index.php?peticion=location&recurso=barcelona">Barcelona</a></li>
-            <li class="es9"><a href="index.php?peticion=location&recurso=burgos">Burgos</a></li>
-            <li class="es10"><a href="index.php?peticion=location&recurso=caceres">Cáceres</a></li>
-            <li class="es11"><a href="index.php?peticion=location&recurso=cadiz">Cádiz</a></li>
-            <li class="es12"><a href="index.php?peticion=location&recurso=cantabria">Cantabria</a></li>
-            <li class="es13"><a href="index.php?peticion=location&recurso=castellon">Castellón</a></li>
-            <li class="es14"><a href="index.php?peticion=location&recurso=ciudad%20real">Ciudad Real</a></li>
-            <li class="es15"><a href="index.php?peticion=location&recurso=cordoba">Córdoba</a></li>
-            <li class="es16"><a href="index.php?peticion=location&recurso=a%20coruña">a Coruña</a></li>
-            <li class="es17"><a href="index.php?peticion=location&recurso=cuenca">Cuenca</a></li>
-            <li class="es18"><a href="index.php?peticion=location&recurso=gerona">Gerona</a></li>
-            <li class="es19"><a href="index.php?peticion=location&recurso=granada">Granada</a></li>
-            <li class="es20"><a href="index.php?peticion=location&recurso=guadalajara">Guadalajara</a></li>
-            <li class="es21"><a href="index.php?peticion=location&recurso=guipuzcoa">Guipúzcoa</a></li>
-            <li class="es22"><a href="index.php?peticion=location&recurso=huelva">Huelva</a></li>
-            <li class="es23"><a href="index.php?peticion=location&recurso=huesca">Huesca</a></li>
-            <li class="es24"><a href="index.php?peticion=location&recurso=islas%20baleares" class="tooltip-middle">Islas Baleares</a></li>
-            <li class="es25"><a href="index.php?peticion=location&recurso=jaen">Jaén</a></li>
-            <li class="es26"><a href="index.php?peticion=location&recurso=leon">León</a></li>
-            <li class="es27"><a href="index.php?peticion=location&recurso=lerida">Lérida</a></li>
-            <li class="es28"><a href="index.php?peticion=location&recurso=lugo">Lugo</a></li>
+            <li class="es1"><a href="location_ALAVA">Álava</a></li>
+            <li class="es2"><a href="location_albacete">Albacete</a></li>
+            <li class="es3"><a href="location_alicante">Alicante</a></li>
+            <li class="es4"><a href="location_almeria">Almería</a></li>
+            <li class="es5"><a href="location_asturias">Asturias</a></li>
+            <li class="es6"><a href="location_avila">Ávila</a></li>
+            <li class="es7"><a href="location_badajoz">Badajoz</a></li>
+            <li class="es8"><a href="location_barcelona">Barcelona</a></li>
+            <li class="es9"><a href="location_burgos">Burgos</a></li>
+            <li class="es10"><a href="location_caceres">Cáceres</a></li>
+            <li class="es11"><a href="location_cadiz">Cádiz</a></li>
+            <li class="es12"><a href="location_cantabria">Cantabria</a></li>
+            <li class="es13"><a href="location_castellon">Castellón</a></li>
+            <li class="es14"><a href="location_ciudad%20real">Ciudad Real</a></li>
+            <li class="es15"><a href="location_cordoba">Córdoba</a></li>
+            <li class="es16"><a href="location_a%20coruña">a Coruña</a></li>
+            <li class="es17"><a href="location_cuenca">Cuenca</a></li>
+            <li class="es18"><a href="location_gerona">Gerona</a></li>
+            <li class="es19"><a href="location_granada">Granada</a></li>
+            <li class="es20"><a href="location_guadalajara">Guadalajara</a></li>
+            <li class="es21"><a href="location_guipuzcoa">Guipúzcoa</a></li>
+            <li class="es22"><a href="location_huelva">Huelva</a></li>
+            <li class="es23"><a href="location_huesca">Huesca</a></li>
+            <li class="es24"><a href="location_islas%20baleares" class="tooltip-middle">Islas Baleares</a></li>
+            <li class="es25"><a href="location_jaen">Jaén</a></li>
+            <li class="es26"><a href="location_leon">León</a></li>
+            <li class="es27"><a href="location_lerida">Lérida</a></li>
+            <li class="es28"><a href="location_lugo">Lugo</a></li>
             <li class="es29"><a href="location_MADRID">Madrid</a></li>
-            <li class="es30"><a href="index.php?peticion=location&recurso=malaga">Málaga</a></li>
-            <li class="es31"><a href="index.php?peticion=location&recurso=murcia">Murcia</a></li>
-            <li class="es32"><a href="index.php?peticion=location&recurso=navarra">Navarra</a></li>
-            <li class="es33"><a href="index.php?peticion=location&recurso=orense">Orense</a></li>
-            <li class="es34"><a href="index.php?peticion=location&recurso=palencia">Palencia</a></li>
-            <li class="es35"><a href="index.php?peticion=location&recurso=las%20palmas%20de%20gran%20canaria" class="tooltip-middle">Las Palmas</a></li>
-            <li class="es36"><a href="index.php?peticion=location&recurso=pontevedra">Pontevedra</a></li>
-            <li class="es37"><a href="index.php?peticion=location&recurso=la%20rioja">La Rioja</a></li>
-            <li class="es38"><a href="index.php?peticion=location&recurso=salamanca">Salamanca</a></li>
-            <li class="es39"><a href="index.php?peticion=location&recurso=santa%20cruz%20de%20tenerife" class="tooltip-middle">Santa Cruz de Tenerife</a></li>
-            <li class="es40"><a href="index.php?peticion=location&recurso=segovia">Segovia</a></li>
-            <li class="es41"><a href="index.php?peticion=location&recurso=sevilla">Sevilla</a></li>
-            <li class="es42"><a href="index.php?peticion=location&recurso=soria">Soria</a></li>
-            <li class="es43"><a href="index.php?peticion=location&recurso=tarragona">Tarragona</a></li>
-            <li class="es44"><a href="index.php?peticion=location&recurso=teruel">Teruel</a></li>
-            <li class="es45"><a href="index.php?peticion=location&recurso=toledo">Toledo</a></li>
-            <li class="es46"><a href="index.php?peticion=location&recurso=valencia">Valencia</a></li>
-            <li class="es47"><a href="index.php?peticion=location&recurso=valladolid">Valladolid</a></li>
-            <li class="es48"><a href="index.php?peticion=location&recurso=vizcaya">Vizcaya</a></li>
-            <li class="es49"><a href="index.php?peticion=location&recurso=zamora">Zamora</a></li>
-            <li class="es50"><a href="index.php?peticion=location&recurso=zaragoza">Zaragoza</a></li>
-            <li class="es51"><a href="index.php?peticion=location&recurso=ceuta">Ceuta</a></li>
-            <li class="es52"><a href="index.php?peticion=location&recurso=melilla">Melilla</a></li>
+            <li class="es30"><a href="location_malaga">Málaga</a></li>
+            <li class="es31"><a href="location_murcia">Murcia</a></li>
+            <li class="es32"><a href="location_navarra">Navarra</a></li>
+            <li class="es33"><a href="location_orense">Orense</a></li>
+            <li class="es34"><a href="location_palencia">Palencia</a></li>
+            <li class="es35"><a href="location_las%20palmas%20de%20gran%20canaria" class="tooltip-middle">Las Palmas</a></li>
+            <li class="es36"><a href="location_pontevedra">Pontevedra</a></li>
+            <li class="es37"><a href="location_la%20rioja">La Rioja</a></li>
+            <li class="es38"><a href="location_salamanca">Salamanca</a></li>
+            <li class="es39"><a href="location_santa%20cruz%20de%20tenerife" class="tooltip-middle">Santa Cruz de Tenerife</a></li>
+            <li class="es40"><a href="location_segovia">Segovia</a></li>
+            <li class="es41"><a href="location_sevilla">Sevilla</a></li>
+            <li class="es42"><a href="location_soria">Soria</a></li>
+            <li class="es43"><a href="location_tarragona">Tarragona</a></li>
+            <li class="es44"><a href="location_teruel">Teruel</a></li>
+            <li class="es45"><a href="location_toledo">Toledo</a></li>
+            <li class="es46"><a href="location_valencia">Valencia</a></li>
+            <li class="es47"><a href="location_valladolid">Valladolid</a></li>
+            <li class="es48"><a href="location_vizcaya">Vizcaya</a></li>
+            <li class="es49"><a href="location_zamora">Zamora</a></li>
+            <li class="es50"><a href="location_zaragoza">Zaragoza</a></li>
+            <li class="es51"><a href="location_ceuta">Ceuta</a></li>
+            <li class="es52"><a href="location_melilla">Melilla</a></li>
         </ul>
     </div>
     <!-- END OF THE CSSMap - Spain -->

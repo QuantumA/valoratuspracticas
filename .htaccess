@@ -6,7 +6,7 @@ RewriteCond %{SCRIPT_FILENAME} !-f
 
 RewriteRule ^inicio demo/controller/index.php
 RewriteRule ^(ranking)$ demo/controller/index.php?peticion=$1 [L]
-RewriteRule ^location_([A-Z]+)$ demo/controller/index.php?peticion=location&recurso=$1 [L]
+RewriteRule ^location_([a-zA-Z]+)$ demo/controller/index.php?peticion=location&recurso=$1 [L]
 RewriteRule ^resume_([0-9]+)$ demo/controller/index.php?peticion=resume&recurso=$1 [L]
 RewriteRule ^login demo/controller/login.php
 RewriteRule ^registro demo/controller/set_up.php
