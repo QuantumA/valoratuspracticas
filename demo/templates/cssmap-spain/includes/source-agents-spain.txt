@@ -1,0 +1,264 @@
+<div id="demo-agents">
+ <ul>
+  <li id="alava">
+
+    <!-- Álava -->
+
+  </li>
+  <li id="albacete">
+
+    <!-- Albacete -->
+
+  </li>
+  <li id="alicante">
+
+    <!-- Alicante -->
+
+  </li>
+  <li id="almeria">
+
+    <!-- Almería -->
+
+  </li>
+  <li id="asturias">
+
+    <!-- Asturias -->
+
+  </li>
+  <li id="avila">
+
+    <!-- Ávila -->
+
+  </li>
+  <li id="badajoz">
+
+    <!-- Badajoz -->
+
+  </li>
+  <li id="barcelona">
+
+    <!-- Barcelona -->
+
+  </li>
+  <li id="burgos">
+
+    <!-- Burgos -->
+
+  </li>
+  <li id="caceres">
+
+    <!-- Cáceres -->
+
+  </li>
+  <li id="cadiz">
+
+    <!-- Cádiz -->
+
+  </li>
+  <li id="cantabria">
+
+    <!-- Cantabria -->
+
+  </li>
+  <li id="castellon">
+
+    <!-- Castellón -->
+
+  </li>
+  <li id="ciudad-real">
+
+    <!-- Ciudad Real -->
+
+  </li>
+  <li id="cordoba">
+
+    <!-- Córdoba -->
+
+  </li>
+  <li id="la-coruna">
+
+    <!-- La Coruña -->
+
+  </li>
+  <li id="cuenca">
+
+    <!-- Cuenca -->
+
+  </li>
+  <li id="gerona">
+
+    <!-- Gerona -->
+
+  </li>
+  <li id="granada">
+
+    <!-- Granada -->
+
+  </li>
+  <li id="guadalajara">
+
+    <!-- Guadalajara -->
+
+  </li>
+  <li id="guipuzcoa">
+
+    <!-- Guipúzcoa -->
+
+  </li>
+  <li id="huelva">
+
+    <!-- Huelva -->
+
+  </li>
+  <li id="huesca">
+
+    <!-- Huesca -->
+
+  </li>
+  <li id="islas-baleares">
+
+    <!-- Islas Baleares -->
+
+  </li>
+  <li id="jaen">
+
+    <!-- Jaén -->
+
+  </li>
+  <li id="leon">
+
+    <!-- León -->
+
+  </li>
+  <li id="lerida">
+
+    <!-- Lérida -->
+
+  </li>
+  <li id="lugo">
+
+    <!-- Lugo -->
+
+  </li>
+  <li id="madrid">
+
+    <!-- Madrid -->
+
+  </li>
+  <li id="malaga">
+
+    <!-- Málaga -->
+
+  </li>
+  <li id="murcia">
+
+    <!-- Murcia -->
+
+  </li>
+  <li id="navarra">
+
+    <!-- Navarra -->
+
+  </li>
+  <li id="orense">
+
+    <!-- Orense -->
+
+  </li>
+  <li id="palencia">
+
+    <!-- Palencia -->
+
+  </li>
+  <li id="las-palmas">
+
+    <!-- Las Palmas -->
+
+  </li>
+  <li id="pontevedra">
+
+    <!-- Pontevedra -->
+
+  </li>
+  <li id="la-rioja">
+
+    <!-- La Rioja -->
+
+  </li>
+  <li id="salamanca">
+
+    <!-- Salamanca -->
+
+  </li>
+  <li id="santa-cruz-de-tenerife">
+
+    <!-- Santa Cruz de Tenerife -->
+
+  </li>
+  <li id="segovia">
+
+    <!-- Segovia -->
+
+  </li>
+  <li id="sevilla">
+
+    <!-- Sevilla -->
+
+  </li>
+  <li id="soria">
+
+    <!-- Soria -->
+
+  </li>
+  <li id="tarragona">
+
+    <!-- Tarragona -->
+
+  </li>
+  <li id="teruel">
+
+    <!-- Teruel -->
+
+  </li>
+  <li id="toledo">
+
+    <!-- Toledo -->
+
+  </li>
+  <li id="valencia">
+
+    <!-- Valencia -->
+
+  </li>
+  <li id="valladolid">
+
+    <!-- Valladolid -->
+
+  </li>
+  <li id="vizcaya">
+
+    <!-- Vizcaya -->
+
+  </li>
+  <li id="zamora">
+
+    <!-- Zamora -->
+
+  </li>
+  <li id="zaragoza">
+
+    <!-- Zaragoza -->
+
+  </li>
+  <li id="ceuta">
+
+    <!-- Ceuta -->
+
+  </li>
+  <li id="melilla">
+
+    <!-- Melilla -->
+
+  </li>
+ </ul>
+</div>

@@ -1,0 +1,154 @@
+.rating {
+    float:left;
+}
+
+.rating:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+    clip:rect(0,0,0,0);
+}
+
+.rating:not(:checked) > label {
+    float:right;
+    width:1em;
+    padding:0 .1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:200%;
+    line-height:1.2;
+    color:#ddd;
+    text-shadow:1px 1px #bbb, 2px 2px #666, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+.rating:not(:checked) > label:before {
+    content: '★ ';
+}
+
+.rating > input:checked ~ label {
+    color: #f70;
+    text-shadow:1px 1px #c60, 2px 2px #940, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+.rating:not(:checked) > label:hover,
+.rating:not(:checked) > label:hover ~ label {
+    color: gold;
+    text-shadow:1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+.rating > input:checked + label:hover,
+.rating > input:checked + label:hover ~ label,
+.rating > input:checked ~ label:hover,
+.rating > input:checked ~ label:hover ~ label,
+.rating > label:hover ~ input:checked ~ label {
+    color: #ea0;
+    text-shadow:1px 1px goldenrod, 2px 2px #B57340, .1em .1em .2em rgba(0,0,0,.5);
+}
+
+.rating > label:active {
+    position:relative;
+    top:2px;
+    left:2px;
+}
+
+
+.nav_candidatura{
+
+
+
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin-left: 0px
+}
+
+.img-back-index{
+
+
+    height: 100vh;
+    max-height: 400px;
+    background: transparent url('../../../res/drawables/back-index.jpg') repeat scroll 0% 0% / cover;
+}
+
+.img-index{
+
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.lft-col-index{
+
+    margin-left: 10px;
+}
+
+.container-agil{
+
+
+    height: 370px;
+    margin-top: 1%;
+}
+
+.row-text-left{
+
+    height: 350px;
+    background-color: rgba(230, 40, 17, 0);
+    margin-left: 30px;
+
+
+}
+
+.row-text-right{
+
+    height: 350px;
+    background-color: rgba(80, 230, 53, 0);
+    margin-left: 3%;
+    margin-right: 3%;
+
+
+}
+
+.text-inf{
+
+
+margin-top: -140px;
+    color: #f3f3f3;
+
+}
+
+.resultados{
+
+
+
+    position: absolute;
+    width: 100%;
+    border: 1px solid #AEC4CD;
+    border-top: 1px solid #AEC4CD;
+    MARGIN-TOP: -1px;
+    background-color: #C4DFE2;
+    border-radius: 5px;
+}
+
+.nueva_empresa{
+
+    border-bottom: 1px solid #d6d6d6;
+    border-radius: 5px;
+    border-right: 1px solid #d6d6d6;
+    padding-bottom: 10px;
+    border-top: 1px solid #d6d6d6;
+
+}
+.after_header{
+
+    margin-top: 60px;
+    border-bottom: 1px solid #cccccc;
+    border-top: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+    border-radius: 5px;
+    height: 320px;
+    background-color: #EEE;
+}
+.container_fater{
+    margin-top: 60px;
+
+
+}

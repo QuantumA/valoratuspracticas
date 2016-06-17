@@ -1,0 +1,58 @@
+<!-- CSSMap - Spain -->
+<div id="map-spain">
+ <ul class="spain">
+  <li class="es1"><a href="#alava">Álava</a></li>
+  <li class="es2"><a href="#albacete">Albacete</a></li>
+  <li class="es3"><a href="#alicante">Alicante</a></li>
+  <li class="es4"><a href="#almeria">Almería</a></li>
+  <li class="es5"><a href="#asturias">Asturias</a></li>
+  <li class="es6"><a href="#avila">Ávila</a></li>
+  <li class="es7"><a href="#badajoz">Badajoz</a></li>
+  <li class="es8"><a href="#barcelona">Barcelona</a></li>
+  <li class="es9"><a href="#burgos">Burgos</a></li>
+  <li class="es10"><a href="#caceres">Cáceres</a></li>
+  <li class="es11"><a href="#cadiz">Cádiz</a></li>
+  <li class="es12"><a href="#cantabria">Cantabria</a></li>
+  <li class="es13"><a href="#castellon">Castellón</a></li>
+  <li class="es14"><a href="#ciudad-real">Ciudad Real</a></li>
+  <li class="es15"><a href="#cordoba">Córdoba</a></li>
+  <li class="es16"><a href="#la-coruna">La Coruña</a></li>
+  <li class="es17"><a href="#cuenca">Cuenca</a></li>
+  <li class="es18"><a href="#gerona">Gerona</a></li>
+  <li class="es19"><a href="#granada">Granada</a></li>
+  <li class="es20"><a href="#guadalajara">Guadalajara</a></li>
+  <li class="es21"><a href="#guipuzcoa">Guipúzcoa</a></li>
+  <li class="es22"><a href="#huelva">Huelva</a></li>
+  <li class="es23"><a href="#huesca">Huesca</a></li>
+  <li class="es24"><a href="#islas-baleares" class="tooltip-middle">Islas Baleares</a></li>
+  <li class="es25"><a href="#jaen">Jaén</a></li>
+  <li class="es26"><a href="#leon">León</a></li>
+  <li class="es27"><a href="#lerida">Lérida</a></li>
+  <li class="es28"><a href="#lugo">Lugo</a></li>
+  <li class="es29"><a href="#madrid">Madrid</a></li>
+  <li class="es30"><a href="#malaga">Málaga</a></li>
+  <li class="es31"><a href="#murcia">Murcia</a></li>
+  <li class="es32"><a href="#navarra">Navarra</a></li>
+  <li class="es33"><a href="#orense">Orense</a></li>
+  <li class="es34"><a href="#palencia">Palencia</a></li>
+  <li class="es35"><a href="#las-palmas" class="tooltip-middle">Las Palmas</a></li>
+  <li class="es36"><a href="#pontevedra">Pontevedra</a></li>
+  <li class="es37"><a href="#la-rioja">La Rioja</a></li>
+  <li class="es38"><a href="#salamanca">Salamanca</a></li>
+  <li class="es39"><a href="#santa-cruz-de-tenerife" class="tooltip-middle">Santa Cruz de Tenerife</a></li>
+  <li class="es40"><a href="#segovia">Segovia</a></li>
+  <li class="es41"><a href="#sevilla">Sevilla</a></li>
+  <li class="es42"><a href="#soria">Soria</a></li>
+  <li class="es43"><a href="#tarragona">Tarragona</a></li>
+  <li class="es44"><a href="#teruel">Teruel</a></li>
+  <li class="es45"><a href="#toledo">Toledo</a></li>
+  <li class="es46"><a href="#valencia">Valencia</a></li>
+  <li class="es47"><a href="#valladolid">Valladolid</a></li>
+  <li class="es48"><a href="#vizcaya">Vizcaya</a></li>
+  <li class="es49"><a href="#zamora">Zamora</a></li>
+  <li class="es50"><a href="#zaragoza">Zaragoza</a></li>
+  <li class="es51"><a href="#ceuta">Ceuta</a></li>
+  <li class="es52"><a href="#melilla">Melilla</a></li>
+ </ul>
+</div>
+<!-- END OF THE CSSMap - Spain -->

@@ -1,0 +1,1 @@
+<div style="padding-top: 12px"><button type="button" disables class="btn btn-primary" >ya has valorado</button></div>

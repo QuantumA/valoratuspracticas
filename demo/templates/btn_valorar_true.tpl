@@ -1,0 +1,1 @@
+<div style="padding-top: 12px"><button type="button" on class="btn btn-primary modal-open" data-toggle="modal" data-target="#responsive" >hacer una valoracion</button></div>
